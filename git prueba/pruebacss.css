@@ -9,7 +9,7 @@ body{
 }
 
 #cabecera{
-    background: url("../imagenes/4598-naruto.png") no-repeat center;
+    background: #37488b;
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
     color:#fff;
     font-weight:700;
